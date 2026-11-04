@@ -1,0 +1,6 @@
+@Bab10A_WebAPI_MinimalAPI__HostAddress = http://localhost:5298
+
+GET {{Bab10A_WebAPI_MinimalAPI__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
